@@ -6,7 +6,8 @@ Cозданный с использованием Socket.IO и Express.
 Скоро перепишу все на TypeScript 🔥🔥🔥
 ````
 
-<a href="https://socket.io/docs/v4/client-installation/">Client Server</a><\br>
+<a href="https://socket.io/docs/v4/client-installation/">Client Server</a>
+
 <a href="https://socket.io/docs/v4/server-installation/">Server</a>
 
 Клонировать репозиторий git clone
