@@ -6,6 +6,10 @@ Cозданный с использованием Socket.IO и Express.
 Скоро перепишу все на TypeScript 🔥🔥🔥
 ````
 
+https://user-images.githubusercontent.com/103760832/223148841-00d2a3ba-1708-4452-aec6-b004bfe42cff.mp4
+
+
+
 <a href="https://socket.io/docs/v4/client-installation/">Client Server</a>
 
 <a href="https://socket.io/docs/v4/server-installation/">Server</a>
