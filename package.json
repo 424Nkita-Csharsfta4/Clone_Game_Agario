@@ -1,0 +1,10 @@
+{
+  "name": "Tipo_Agario",
+  "version": "1.0.0",
+  "description": "Game in PMR",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}

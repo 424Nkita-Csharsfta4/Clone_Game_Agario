@@ -1,0 +1,43 @@
+body {
+  background: #6a3093;  /* fallback for old browsers */
+}
+
+#roadeo {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(252, 224, 224);
+}
+
+#nipple {
+  position: absolute;
+  width: 100%;
+  bottom: 13em;
+}
+
+.modal {
+  text-align: center;
+  top: 20%;
+}
+
+@media only screen and (max-width: 768px) {
+  #roadeo {
+    transform: none;
+    top: 0%;
+    left: 0%;
+    width: 100%;
+  }
+}
+
+
+.modal-content {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#username {
+  margin-bottom: 10px;
+}
