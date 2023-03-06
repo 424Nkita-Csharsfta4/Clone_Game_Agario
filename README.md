@@ -9,6 +9,9 @@ Cозданный с использованием Socket.IO и Express.
 https://user-images.githubusercontent.com/103760832/223148841-00d2a3ba-1708-4452-aec6-b004bfe42cff.mp4
 
 
+![image](https://user-images.githubusercontent.com/103760832/223149378-18cd7b13-0d7c-4369-991f-430e7fde1f26.png)
+
+
 
 <a href="https://socket.io/docs/v4/client-installation/">Client Server</a>
 
